@@ -1,4 +1,4 @@
 ## Welcome to My EDS124BR Portfolio!
 
 ### Here are a few of my projects!
-- https://www.youtube.com/watch?v=rKYijj_B_YU&ab_channel=RickeshKhilnani
+- [House Building!](https://www.youtube.com/watch?v=rKYijj_B_YU&ab_channel=RickeshKhilnani)
